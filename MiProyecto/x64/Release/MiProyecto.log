@@ -1,0 +1,6 @@
+﻿  MiProyecto.cpp
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  Generando código
+  All 152 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Generación de código finalizada
+  MiProyecto.vcxproj -> C:\Users\HP\source\repos\MiProyecto\x64\Release\MiProyecto.exe
