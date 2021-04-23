@@ -143,7 +143,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="MiProyecto.cpp" />
+    <ClCompile Include="ConexionBD.cpp" />
+    <ClCompile Include="Empleado.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Persona.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ConexionBD.h" />
+    <ClInclude Include="Empleado.h" />
+    <ClInclude Include="Persona.h" />
+    <ClInclude Include="resource.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MiProyecto.rc" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
